@@ -1,5 +1,5 @@
 # 100-python-questions-and-answers in python files
-This domain contains my solutions to a series of 100 python question. 
+This domain contains my solutions to a series of 100 python question. I will be increasing the solutions as they come in
 
 # Question 1
 
