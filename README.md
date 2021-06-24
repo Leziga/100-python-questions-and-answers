@@ -3,3 +3,20 @@
 
 ***I will be increasing the solutions as they come in. Find solutions from the author and others [here](https://github.com/darkprinx/break-the-ice-with-python/blob/master/Status/Day%201.md).***
 
+----------------
+
+# 100+ Python challenging programming exercises
+
+
+## 1. Problem Template
+
+* ***Question***
+* ***Hints***
+* ***My Solutions: Uploaded in py files***
+
+
+-----------------
+
+## 2. Practice Status
+
+* **[Questions 1-10](https://https://github.com/Leziga/100-python-questions-and-answers/blob/main/Questions%201-10.md "Day 1 Status")**
