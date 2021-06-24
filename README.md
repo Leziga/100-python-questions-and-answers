@@ -12,7 +12,7 @@
 
 * ***Question***
 * ***Hints***
-* ***My Solutions: Uploaded in py files***
+* ***My Solutions: Uploaded in .py files***
 
 
 -----------------
