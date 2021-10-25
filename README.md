@@ -19,5 +19,5 @@
 
 ## 2. Practice Status
 
-* **[Questions 1-10](https://https://github.com/Leziga/100-python-questions-and-answers/blob/main/Questions%201-10.md "Day 1 Status")** And 
+* **[Questions 1-10](https://github.com/Leziga/100-python-questions-and-answers/blob/main/Questions%201-10.md "Day 1 Status")** And 
   **[My Solutions 1-10](https://github.com/Leziga/100-python-questions-and-answers/tree/main/My_Solutions/Questions%201-10)**
